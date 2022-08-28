@@ -11,4 +11,11 @@ body {
 .jumbotron {
     background-image: url("bk.jpg");
     background-size: cover;
+    
+        color: #f0f8FF;
+    
+
   }
+title {
+    color: #f0f8FF;
+}
